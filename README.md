@@ -48,22 +48,18 @@ java -jar output.jar
 ```
 fundamentals-of-Kotlin/
 │
-├Basics/
-│   ├── variables.kt
-│   ├── dataTypes.kt
-│   └── operators.kt
-│
+├__Notes/
+├── variables.kt
+├── dataTypes.kt
+└── operators.kt
 ├── ControlFlow/
-│   ├── ifElse.kt
-│   ├── whenExample.kt
-│   └── loops.kt
-│
+│── ifElse.kt
+├── whenExample.kt
+│── loops.kt
 ├── Functions/
-│   ├── simpleFunction.kt
-│   ├── parameters.kt
-│   └── returnTypes.kt
-│
-│
+├── simpleFunction.kt
+├── parameters.kt
+└── returnTypes.kt
 └── README.md
 ```
 
